@@ -181,7 +181,7 @@ function startServer() {
   app.get('/forecast', getForecast);
 
   // Handle requests for static files
-  app.use(express.static('public'));
+  app.use(express.static('docs'));
 
   // Start the server
   return app.listen('8000', () => {
