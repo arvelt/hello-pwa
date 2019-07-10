@@ -7,7 +7,7 @@
   },
   "restart": {
     "exclude": [
-      "^docs/"
+      "^public/"
     ],
     "include": [
       "^\\.env$",
