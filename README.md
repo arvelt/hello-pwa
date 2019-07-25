@@ -25,6 +25,7 @@ techniques. Your app will:
 
 To get started, check out the [codelab instruction][codelab]
 
+Glick project GO https://glitch.com/edit/#!/googlecodelabs-your-first-pwapp-5218
 
 ## Feedback
 
